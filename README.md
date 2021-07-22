@@ -19,5 +19,9 @@ postgresql
     - Spring Data JPA  
     - PostgreSQL Driver
 
-# 기타
-[REST API?]()
+# 공부 내용
+[REST API](./studied/RESTApi.md)  
+[API](./studied/API.md)  
+[JPA](./studied/JPA.md)
+[DB연동 후 REST API서버 구현](./studied/study1.md)
+
