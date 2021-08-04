@@ -22,6 +22,8 @@ ORM을 통해 객체간의 관계를 바탕으로 **SQL을 자동으로 생성**
 자바 어플리케이션과 JDBC사이에서 동작  
 JPA호출시 JPA가 JDBC API를 사용해 SQL을 호출하고, DB와 통신함.  
 ![../img/jpa_arch.png]  
+[JPA with sql](./jpa_query.md)
+[연관관계 매핑](./jpa_relation.md)
 
 ### 프로세스
 1. 개발자가 조작을 원하는 객체의 정보를 JPA에게 넘겨준다.  

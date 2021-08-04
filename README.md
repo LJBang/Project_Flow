@@ -22,7 +22,7 @@ postgresql
 # 공부 내용
 [REST API](./studied/RESTApi.md)  
 [API](./studied/API.md)  
-[JPA](./studied/JPA.md)
-[DB연동 후 REST API서버 구현](./studied/study1.md)
-[Builder패턴](/)
+[JPA](./studied/JPA.md)  
+[DB연동 후 REST API서버 구현](./studied/study1.md)  
+[Builder패턴](/)  
 
