@@ -24,5 +24,5 @@ postgresql
 [API](./studied/API.md)  
 [JPA](./studied/JPA.md)  
 [DB연동 후 REST API서버 구현](./studied/study1.md)  
-[Builder패턴](/)  
-
+[Builder패턴](./builder.md)  
+[Spring Scheduling](./studied/scheduling.md)
