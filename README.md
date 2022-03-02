@@ -2,6 +2,7 @@
 
 JAVA Spring Boot를 활용하여 REST API 구축을 공부하기 위한 프로젝트  
 해양 재난 상황판 프로젝트의 일부를 정리했습니다.  
+![screen](./img/screen.png)
 
 # Tech
 JAVA  
